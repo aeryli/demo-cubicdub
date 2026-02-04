@@ -2,7 +2,7 @@
     var DEBUG_MODE = false;
     var RENDER_MODE = false;
     var MENV_MODE = false;
-    var RENDER_FPS = 30;
+    var RENDER_FPS = 60;
     var hadError = false;
     // everything is in milliseconds, so SPF is actually a bad name
     var RENDER_SPF = 1 / RENDER_FPS * 1000;
